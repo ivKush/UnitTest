@@ -13,5 +13,9 @@ public class TestCalculator {
         assertThatThrownBy( () -> Calculator.calculateDiscount( 4000, 100 ) )
                 .isInstanceOf( ArithmeticException.class );
     }
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> f1ef6639d1d3e0973eb08e73b787be29d25f629d
